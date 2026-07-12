@@ -104,3 +104,12 @@ InitTestScene*.unity*
 
 # Auto-generated cache in Assets folder
 /[Aa]ssets/[Ss]ceneDependencyCache*
+
+# Mengabaikan folder cache/sementara bawaan Unity
+DeepSeaMazeGame/[Ll]ibrary/
+DeepSeaMazeGame/[Tt]emp/
+DeepSeaMazeGame/[Oo]bj/
+DeepSeaMazeGame/[Bb]uild/
+DeepSeaMazeGame/[Bb]uilds/
+DeepSeaMazeGame/[Ll]ogs/
+DeepSeaMazeGame/[Uu]ser[Ss]ettings/
