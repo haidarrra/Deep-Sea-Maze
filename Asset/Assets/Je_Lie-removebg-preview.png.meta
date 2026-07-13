@@ -1,0 +1,351 @@
+fileFormatVersion: 2
+guid: d12fed4eb75af3e469538ba07011c463
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 974171433417872717
+    second: Je_Lie-removebg-preview_0
+  - first:
+      213: -1955383334390523831
+    second: Je_Lie-removebg-preview_1
+  - first:
+      213: 4909611314419317104
+    second: Je_Lie-removebg-preview_2
+  - first:
+      213: -7697669522650139234
+    second: Je_Lie-removebg-preview_3
+  - first:
+      213: 2119923235198717869
+    second: Je_Lie-removebg-preview_4
+  - first:
+      213: 8449965750480109999
+    second: Je_Lie-removebg-preview_5
+  - first:
+      213: -5625935163108233663
+    second: Je_Lie-removebg-preview_6
+  - first:
+      213: 8582175013124963832
+    second: Je_Lie-removebg-preview_7
+  - first:
+      213: -3896132765986459730
+    second: Je_Lie-removebg-preview_8
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Je_Lie-removebg-preview_0
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 22
+        width: 58
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d45943fd1c3f48d00800000000000000
+      internalID: 974171433417872717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Je_Lie-removebg-preview_1
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 20
+        width: 82
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9481fe9a7351dd4e0800000000000000
+      internalID: -1955383334390523831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Je_Lie-removebg-preview_2
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 21
+        width: 103
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 079b33d6a71722440800000000000000
+      internalID: 4909611314419317104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Je_Lie-removebg-preview_3
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 10
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9576186a526c2590800000000000000
+      internalID: -7697669522650139234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Je_Lie-removebg-preview_4
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 7
+        width: 111
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dafcd1953fa7b6d10800000000000000
+      internalID: 2119923235198717869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Je_Lie-removebg-preview_5
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 9
+        width: 108
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa18599841f444570800000000000000
+      internalID: 8449965750480109999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Je_Lie-removebg-preview_6
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 6
+        width: 109
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14eed81d6c9ace1b0800000000000000
+      internalID: -5625935163108233663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Je_Lie-removebg-preview_7
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 9
+        width: 110
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fdfb8144b20a1770800000000000000
+      internalID: 8582175013124963832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Je_Lie-removebg-preview_8
+      rect:
+        serializedVersion: 2
+        x: 859
+        y: 8
+        width: 104
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eafed9554e72ee9c0800000000000000
+      internalID: -3896132765986459730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Je_Lie-removebg-preview_0: 974171433417872717
+      Je_Lie-removebg-preview_1: -1955383334390523831
+      Je_Lie-removebg-preview_2: 4909611314419317104
+      Je_Lie-removebg-preview_3: -7697669522650139234
+      Je_Lie-removebg-preview_4: 2119923235198717869
+      Je_Lie-removebg-preview_5: 8449965750480109999
+      Je_Lie-removebg-preview_6: -5625935163108233663
+      Je_Lie-removebg-preview_7: 8582175013124963832
+      Je_Lie-removebg-preview_8: -3896132765986459730
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
