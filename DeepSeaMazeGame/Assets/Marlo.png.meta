@@ -103,10 +103,10 @@ TextureImporter:
       name: Marlo_0
       rect:
         serializedVersion: 2
-        x: 0
-        y: 0
-        width: 1408
-        height: 768
+        x: 12
+        y: 660
+        width: 89
+        height: 74
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -125,7 +125,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 5b678a1284daa2e45967fe6c81e52a14
     internalID: 0
     vertices: []
     indices: 
@@ -133,9 +133,76 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     spriteCustomMetadata:
-      entries: []
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":128.0,"y":128.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":1,"keepEmptyRects":false,"isAlternate":false}'
     nameFileIdTable:
       Marlo_0: -2317379088517879784
+      Marlo_1: 1916300014
+      Marlo_10: 590025596
+      Marlo_11: -800597778
+      Marlo_12: -1127751476
+      Marlo_13: -1440166367
+      Marlo_14: -246686971
+      Marlo_15: -1074432402
+      Marlo_16: -724788372
+      Marlo_17: -1934083499
+      Marlo_18: 656720347
+      Marlo_19: -1197484347
+      Marlo_2: 360174647
+      Marlo_20: -1835513435
+      Marlo_21: 194855742
+      Marlo_22: 197880765
+      Marlo_23: 1371754191
+      Marlo_24: -773547953
+      Marlo_25: 1655912580
+      Marlo_26: 1429141358
+      Marlo_27: -1832862825
+      Marlo_28: 1285843832
+      Marlo_29: 686573764
+      Marlo_3: -325927605
+      Marlo_30: 1446478891
+      Marlo_31: -1127179771
+      Marlo_32: 1054018105
+      Marlo_33: -1593766580
+      Marlo_34: 79636924
+      Marlo_35: -1808152874
+      Marlo_36: 1958222942
+      Marlo_37: 707029026
+      Marlo_38: -1018221945
+      Marlo_39: -42268977
+      Marlo_4: 570062508
+      Marlo_40: -1324364831
+      Marlo_41: 283910614
+      Marlo_42: -782558973
+      Marlo_43: -1219784433
+      Marlo_44: -1942682504
+      Marlo_45: 1592331247
+      Marlo_46: -1467919337
+      Marlo_47: -1654008612
+      Marlo_48: 1974186722
+      Marlo_49: 727268415
+      Marlo_5: 829387549
+      Marlo_50: -487334503
+      Marlo_51: 558736256
+      Marlo_52: -839624053
+      Marlo_53: 350493297
+      Marlo_54: 1617792317
+      Marlo_55: 2008910892
+      Marlo_56: 806105353
+      Marlo_57: 1892488316
+      Marlo_58: -750165135
+      Marlo_59: -1309350847
+      Marlo_6: -9355861
+      Marlo_60: 111337536
+      Marlo_61: -219010576
+      Marlo_62: -1392909143
+      Marlo_63: -1342281839
+      Marlo_64: -576423115
+      Marlo_65: -1158807372
+      Marlo_7: 70918235
+      Marlo_8: 1733787878
+      Marlo_9: -1370785397
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

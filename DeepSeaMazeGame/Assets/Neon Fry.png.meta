@@ -103,10 +103,10 @@ TextureImporter:
       name: Neon Fry_0
       rect:
         serializedVersion: 2
-        x: 0
-        y: 0
-        width: 1408
-        height: 768
+        x: 139
+        y: 609
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -121,11 +121,1265 @@ TextureImporter:
       indices: 
       edges: []
       weights: []
+    - serializedVersion: 2
+      name: Neon Fry_1
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 612
+        width: 64
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f112fd722185df4287e13811f7e3982
+      internalID: -1381382975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neon Fry_2
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 614
+        width: 62
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88c9a8e4ff5a97540bb1734531ac0e41
+      internalID: 1415193804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neon Fry_3
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 609
+        width: 67
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c49bcb7f016b3324b96c082f40044655
+      internalID: 1843550879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neon Fry_4
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 614
+        width: 61
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c60b726f0c3899469e3b888dcc93cc9
+      internalID: 428876252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neon Fry_5
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 612
+        width: 61
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7a44ee4dd1c8ed488fe37ced4e94969
+      internalID: 277117121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neon Fry_6
+      rect:
+        serializedVersion: 2
+        x: 843
+        y: 612
+        width: 68
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b48a12b3dd6b71741abd63ce962bd2bb
+      internalID: 1704763302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neon Fry_7
+      rect:
+        serializedVersion: 2
+        x: 968
+        y: 612
+        width: 60
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf552331d879b634c8777c7184810394
+      internalID: 311821189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neon Fry_8
+      rect:
+        serializedVersion: 2
+        x: 1087
+        y: 614
+        width: 57
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb9e63e07be35d940acdc57b243f5698
+      internalID: 881578011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neon Fry_9
+      rect:
+        serializedVersion: 2
+        x: 1201
+        y: 614
+        width: 66
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c058adfb6d1ae044b8eee076b680d23c
+      internalID: 9147230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neon Fry_10
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 500
+        width: 83
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43f84c4c571f84840a5005ab2dd4e916
+      internalID: 336488907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neon Fry_11
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 498
+        width: 92
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d21c94557561b848b77c54ba0715ca7
+      internalID: 512309591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neon Fry_12
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 498
+        width: 92
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8549ce802c373f41a5ae09196d5160f
+      internalID: -1455974566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neon Fry_13
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 500
+        width: 92
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1dbf1a727488bd4db8a8f6c60809daf
+      internalID: -360417537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neon Fry_14
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 500
+        width: 92
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 157366f56817470449af821c706e9b87
+      internalID: 1747795528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neon Fry_15
+      rect:
+        serializedVersion: 2
+        x: 718
+        y: 500
+        width: 92
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c8ca1314a4382e4299ad9ba95cb2ec7
+      internalID: 797586600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neon Fry_16
+      rect:
+        serializedVersion: 2
+        x: 836
+        y: 500
+        width: 92
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c442780e97b08d40aec31dedd8dbc8e
+      internalID: 1831221741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neon Fry_17
+      rect:
+        serializedVersion: 2
+        x: 957
+        y: 500
+        width: 92
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53957eaf9292ba44da465c316f95cbd2
+      internalID: 1256444903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neon Fry_18
+      rect:
+        serializedVersion: 2
+        x: 1083
+        y: 498
+        width: 92
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6b0cf03ce3cf9149a2bf2bf887b9529
+      internalID: 1669704475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neon Fry_19
+      rect:
+        serializedVersion: 2
+        x: 1206
+        y: 496
+        width: 92
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6def9310a373dd438588a8656c5df60
+      internalID: 71411718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neon Fry_20
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 398
+        width: 152
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bf45943fbbf3fd4ea914799363ac6f6
+      internalID: 746753549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neon Fry_21
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 398
+        width: 152
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9797dce167010824f83151aaaf7821a6
+      internalID: 161887906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neon Fry_22
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 398
+        width: 152
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1f80166c432c674ab451a6b86f34091
+      internalID: 233082471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neon Fry_23
+      rect:
+        serializedVersion: 2
+        x: 715
+        y: 398
+        width: 152
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f99d5f197f336741910e4aee0e8cfca
+      internalID: -1089706938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neon Fry_24
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 398
+        width: 152
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55ab27a312399d9458c2dc851512835b
+      internalID: 564424672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neon Fry_25
+      rect:
+        serializedVersion: 2
+        x: 889
+        y: 398
+        width: 152
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8a1fc0af993e69469b52f85ef34e316
+      internalID: -91543796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neon Fry_26
+      rect:
+        serializedVersion: 2
+        x: 1059
+        y: 398
+        width: 152
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8872e9e58dc4c5845a81b064665f5300
+      internalID: -27215817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neon Fry_27
+      rect:
+        serializedVersion: 2
+        x: 1228
+        y: 398
+        width: 152
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 798c59adf1c488b47b119bf3da5a61ad
+      internalID: -26255910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neon Fry_28
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 248
+        width: 103
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27b9401135eef9a4e8ced3b15d9852db
+      internalID: 1320907034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neon Fry_29
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 248
+        width: 103
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f32dd027573ef2843a6f33d83896b510
+      internalID: 187653322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neon Fry_30
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 248
+        width: 103
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 494f3a82e32619e4ba6e85e8e6493c78
+      internalID: 641298923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neon Fry_31
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 248
+        width: 103
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40d7eb6fa1dacde4d87a9f54b27b0c02
+      internalID: 378545844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neon Fry_32
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 248
+        width: 103
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4df03d87f0d83514f818239133c9bc57
+      internalID: -2075540365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neon Fry_33
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 248
+        width: 103
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ca6e3a1dc5e7bf40a049914d7397544
+      internalID: 1275627376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neon Fry_34
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 248
+        width: 103
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51e6bf76dd9d19c45bd6ccb046dfc2a2
+      internalID: 1825074865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neon Fry_35
+      rect:
+        serializedVersion: 2
+        x: 993
+        y: 248
+        width: 103
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f0fd10fbbb79a341af9cb78662a9713
+      internalID: -1112476918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neon Fry_36
+      rect:
+        serializedVersion: 2
+        x: 1128
+        y: 248
+        width: 103
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a97627ed382bf34ab9d6eb58990c34a
+      internalID: -309645072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neon Fry_37
+      rect:
+        serializedVersion: 2
+        x: 1265
+        y: 248
+        width: 103
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4414da6254a0b67478d15647fd13d16e
+      internalID: -1368437011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neon Fry_38
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 147
+        width: 71
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1199d84314e335429f3473db96b4658
+      internalID: -1054014739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neon Fry_39
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 145
+        width: 71
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48af4acab9640e94aa9678e79cbd97eb
+      internalID: 1770028540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neon Fry_40
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 140
+        width: 62
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d554a546f8eafda409f103ba05445804
+      internalID: 1309143942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neon Fry_41
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 147
+        width: 74
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bd5987c9cef38540b2f294fe4fd6107
+      internalID: -359397174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neon Fry_42
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 140
+        width: 66
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 566cabbab19f9fd44aa5a5c9a64ef26a
+      internalID: 457773236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neon Fry_43
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 143
+        width: 77
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b465493d88856364bb25ad97b8eb2750
+      internalID: 299498283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neon Fry_44
+      rect:
+        serializedVersion: 2
+        x: 871
+        y: 145
+        width: 78
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa112107c66ea4a40922cb7ab7076cb9
+      internalID: 377869269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neon Fry_45
+      rect:
+        serializedVersion: 2
+        x: 1003
+        y: 147
+        width: 76
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75598d4064dfc8c4da98dbdf95c73468
+      internalID: -2062032691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neon Fry_46
+      rect:
+        serializedVersion: 2
+        x: 1148
+        y: 145
+        width: 67
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52b47cf2edb3ca342ad46dcb67a1f13b
+      internalID: -2120732501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neon Fry_47
+      rect:
+        serializedVersion: 2
+        x: 1290
+        y: 147
+        width: 62
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76915a8ef4318db4b81cf59aefff25b6
+      internalID: -477062819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neon Fry_48
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 35
+        width: 89
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59f2741001b6e9144b06c22e68fb8f4c
+      internalID: 308441571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neon Fry_49
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 33
+        width: 84
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a87f3ba0059f72e44ae4de45c7a64aa0
+      internalID: 1126329162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neon Fry_50
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 35
+        width: 87
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20cc5a85e47b0d44d9ec957dc3e5ea07
+      internalID: 546855609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neon Fry_51
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 35
+        width: 99
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85db4b968cd050b4cb255a4bbd8065ce
+      internalID: -1692830969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neon Fry_52
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 33
+        width: 101
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccc0fbc119d043f458e0b6f96c4f7cc8
+      internalID: -1226124358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neon Fry_53
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 35
+        width: 96
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b74920e2c6e90374e95e1e7c859c116f
+      internalID: -1837798067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neon Fry_54
+      rect:
+        serializedVersion: 2
+        x: 861
+        y: 35
+        width: 96
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18a1b3fddf62bd546a4babd6732d4dcf
+      internalID: -1891606871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neon Fry_55
+      rect:
+        serializedVersion: 2
+        x: 996
+        y: 35
+        width: 87
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da6ee78297f6d604ab089d7a083173cf
+      internalID: -2018571326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neon Fry_56
+      rect:
+        serializedVersion: 2
+        x: 1133
+        y: 33
+        width: 90
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48b02cf44a6a7f54db39b9c2216d845a
+      internalID: 1906210075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neon Fry_57
+      rect:
+        serializedVersion: 2
+        x: 1268
+        y: 33
+        width: 85
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a7ebaf0f9f9ae64e92385e74acaa30b
+      internalID: 1588938477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 59e35110e64399d43871fc51fb42c958
     internalID: 0
     vertices: []
     indices: 
@@ -133,9 +1387,274 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     spriteCustomMetadata:
-      entries: []
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":64.0,"y":64.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":1,"keepEmptyRects":false,"isAlternate":false}'
     nameFileIdTable:
       Neon Fry_0: -5283181745986688744
+      Neon Fry_1: -1381382975
+      Neon Fry_10: 336488907
+      Neon Fry_100: 2010713756
+      Neon Fry_101: 233769279
+      Neon Fry_102: -729489450
+      Neon Fry_103: -1748304107
+      Neon Fry_104: 1897042571
+      Neon Fry_105: 954053859
+      Neon Fry_106: 1215505607
+      Neon Fry_107: 1216770575
+      Neon Fry_108: -1927385256
+      Neon Fry_109: -1407711603
+      Neon Fry_11: 512309591
+      Neon Fry_110: -10137635
+      Neon Fry_111: -1550089273
+      Neon Fry_112: 257712446
+      Neon Fry_113: 1813094773
+      Neon Fry_114: 841698076
+      Neon Fry_115: 1742212313
+      Neon Fry_116: 559340162
+      Neon Fry_117: 1238262781
+      Neon Fry_118: -1973182670
+      Neon Fry_119: 515951181
+      Neon Fry_12: -1455974566
+      Neon Fry_120: -72631597
+      Neon Fry_121: 1411933732
+      Neon Fry_122: -1544365020
+      Neon Fry_123: -949297450
+      Neon Fry_124: 361406980
+      Neon Fry_125: -1640377597
+      Neon Fry_126: 2041131505
+      Neon Fry_127: -420635777
+      Neon Fry_128: 1629592827
+      Neon Fry_129: -129567921
+      Neon Fry_13: -360417537
+      Neon Fry_130: 738808781
+      Neon Fry_131: 435858303
+      Neon Fry_132: -2055157682
+      Neon Fry_133: -1071476038
+      Neon Fry_134: -520562499
+      Neon Fry_135: 166551987
+      Neon Fry_136: 813908621
+      Neon Fry_137: 1284820505
+      Neon Fry_138: -13471284
+      Neon Fry_139: 772066249
+      Neon Fry_14: 1747795528
+      Neon Fry_140: -1350649311
+      Neon Fry_141: -1186671254
+      Neon Fry_142: -578125586
+      Neon Fry_143: 1650382207
+      Neon Fry_144: 1327921984
+      Neon Fry_145: 1883552631
+      Neon Fry_146: -697682540
+      Neon Fry_147: -122915570
+      Neon Fry_148: 1080877350
+      Neon Fry_149: -946931809
+      Neon Fry_15: 797586600
+      Neon Fry_150: -1375862880
+      Neon Fry_151: 832498460
+      Neon Fry_152: -466087328
+      Neon Fry_153: -387692839
+      Neon Fry_154: -1331219286
+      Neon Fry_155: -461330282
+      Neon Fry_156: 1141082112
+      Neon Fry_157: 397041704
+      Neon Fry_158: -634800791
+      Neon Fry_159: 1725690551
+      Neon Fry_16: 1831221741
+      Neon Fry_160: 530560497
+      Neon Fry_161: -1250436635
+      Neon Fry_162: -27990412
+      Neon Fry_163: 1928317316
+      Neon Fry_164: -556740827
+      Neon Fry_165: -2007592286
+      Neon Fry_166: -2015205748
+      Neon Fry_167: -287006748
+      Neon Fry_168: 433777403
+      Neon Fry_169: -2136589004
+      Neon Fry_17: 1256444903
+      Neon Fry_170: -1940618883
+      Neon Fry_171: -760241479
+      Neon Fry_172: -1165748894
+      Neon Fry_173: 1551633555
+      Neon Fry_174: -314087609
+      Neon Fry_175: -541883447
+      Neon Fry_176: -1842593959
+      Neon Fry_177: 2041165949
+      Neon Fry_178: -688591456
+      Neon Fry_179: -538702902
+      Neon Fry_18: 1669704475
+      Neon Fry_180: 1658705227
+      Neon Fry_181: 1628414939
+      Neon Fry_182: -718330086
+      Neon Fry_183: -1731915721
+      Neon Fry_184: -949617043
+      Neon Fry_185: -1438623259
+      Neon Fry_186: -1870430627
+      Neon Fry_187: -1141036145
+      Neon Fry_188: -1408926743
+      Neon Fry_189: 625622073
+      Neon Fry_19: 71411718
+      Neon Fry_190: 1754604019
+      Neon Fry_191: 1153072610
+      Neon Fry_192: 769170184
+      Neon Fry_193: 396473572
+      Neon Fry_194: 572697958
+      Neon Fry_195: 541994034
+      Neon Fry_196: 1443959562
+      Neon Fry_197: 1003233953
+      Neon Fry_198: -1321660568
+      Neon Fry_199: 1710969999
+      Neon Fry_2: 1415193804
+      Neon Fry_20: 746753549
+      Neon Fry_200: -266094636
+      Neon Fry_201: -1059884314
+      Neon Fry_202: 646124839
+      Neon Fry_203: 769774404
+      Neon Fry_204: 1080525305
+      Neon Fry_205: 1701068245
+      Neon Fry_206: -689071344
+      Neon Fry_207: -1469837398
+      Neon Fry_208: -1277092245
+      Neon Fry_209: -1766655341
+      Neon Fry_21: 161887906
+      Neon Fry_210: -110131923
+      Neon Fry_211: -231498868
+      Neon Fry_212: 1210220569
+      Neon Fry_213: 1611185878
+      Neon Fry_214: 218567261
+      Neon Fry_215: -514626863
+      Neon Fry_216: -1271782877
+      Neon Fry_217: 2039805255
+      Neon Fry_218: -1151884192
+      Neon Fry_219: 220032180
+      Neon Fry_22: 233082471
+      Neon Fry_220: -1320727050
+      Neon Fry_221: 61345614
+      Neon Fry_222: 1583692641
+      Neon Fry_223: -232874331
+      Neon Fry_224: 534199799
+      Neon Fry_225: 1738862913
+      Neon Fry_226: 1153756025
+      Neon Fry_227: -1160216632
+      Neon Fry_228: -997068255
+      Neon Fry_229: -1835928505
+      Neon Fry_23: -1089706938
+      Neon Fry_230: 1031777198
+      Neon Fry_231: 649476388
+      Neon Fry_232: -978201847
+      Neon Fry_233: -2146546939
+      Neon Fry_234: -602063676
+      Neon Fry_235: -148777530
+      Neon Fry_236: 480905667
+      Neon Fry_237: 1368942423
+      Neon Fry_238: 1151874269
+      Neon Fry_239: 1953616190
+      Neon Fry_24: 564424672
+      Neon Fry_240: -1149844
+      Neon Fry_241: 1267003400
+      Neon Fry_242: 34321840
+      Neon Fry_243: 418444465
+      Neon Fry_244: -1754868910
+      Neon Fry_245: 595012020
+      Neon Fry_246: 1760884801
+      Neon Fry_247: -488398516
+      Neon Fry_248: -1363211613
+      Neon Fry_249: 1003127288
+      Neon Fry_25: -91543796
+      Neon Fry_250: -215349891
+      Neon Fry_251: 15881079
+      Neon Fry_252: 1556497865
+      Neon Fry_253: 1255710613
+      Neon Fry_254: 1788946069
+      Neon Fry_255: -2132975786
+      Neon Fry_256: -412131604
+      Neon Fry_257: 631714999
+      Neon Fry_258: 459566247
+      Neon Fry_259: 2006593547
+      Neon Fry_26: -27215817
+      Neon Fry_260: 336291933
+      Neon Fry_261: 1065032587
+      Neon Fry_262: 1340841827
+      Neon Fry_263: -420813359
+      Neon Fry_27: -26255910
+      Neon Fry_28: 1320907034
+      Neon Fry_29: 187653322
+      Neon Fry_3: 1843550879
+      Neon Fry_30: 641298923
+      Neon Fry_31: 378545844
+      Neon Fry_32: -2075540365
+      Neon Fry_33: 1275627376
+      Neon Fry_34: 1825074865
+      Neon Fry_35: -1112476918
+      Neon Fry_36: -309645072
+      Neon Fry_37: -1368437011
+      Neon Fry_38: -1054014739
+      Neon Fry_39: 1770028540
+      Neon Fry_4: 428876252
+      Neon Fry_40: 1309143942
+      Neon Fry_41: -359397174
+      Neon Fry_42: 457773236
+      Neon Fry_43: 299498283
+      Neon Fry_44: 377869269
+      Neon Fry_45: -2062032691
+      Neon Fry_46: -2120732501
+      Neon Fry_47: -477062819
+      Neon Fry_48: 308441571
+      Neon Fry_49: 1126329162
+      Neon Fry_5: 277117121
+      Neon Fry_50: 546855609
+      Neon Fry_51: -1692830969
+      Neon Fry_52: -1226124358
+      Neon Fry_53: -1837798067
+      Neon Fry_54: -1891606871
+      Neon Fry_55: -2018571326
+      Neon Fry_56: 1906210075
+      Neon Fry_57: 1588938477
+      Neon Fry_58: -1317573526
+      Neon Fry_59: -2014861381
+      Neon Fry_6: 1704763302
+      Neon Fry_60: 1956721882
+      Neon Fry_61: 333942417
+      Neon Fry_62: -1057466898
+      Neon Fry_63: 578711787
+      Neon Fry_64: 1767795140
+      Neon Fry_65: 1148708244
+      Neon Fry_66: 1361608274
+      Neon Fry_67: 281087577
+      Neon Fry_68: -1022361956
+      Neon Fry_69: 474483533
+      Neon Fry_7: 311821189
+      Neon Fry_70: -1369806356
+      Neon Fry_71: -1360834593
+      Neon Fry_72: 74415270
+      Neon Fry_73: 1564648924
+      Neon Fry_74: 260394889
+      Neon Fry_75: -1393845336
+      Neon Fry_76: -1838091246
+      Neon Fry_77: -568935141
+      Neon Fry_78: -742855830
+      Neon Fry_79: 1018003988
+      Neon Fry_8: 881578011
+      Neon Fry_80: 737568515
+      Neon Fry_81: -2103012328
+      Neon Fry_82: -532290513
+      Neon Fry_83: -819010711
+      Neon Fry_84: 1529537241
+      Neon Fry_85: -1210642450
+      Neon Fry_86: -1045150462
+      Neon Fry_87: 152520061
+      Neon Fry_88: 1821956585
+      Neon Fry_89: 541510368
+      Neon Fry_9: 9147230
+      Neon Fry_90: -669041323
+      Neon Fry_91: -84171156
+      Neon Fry_92: -634043020
+      Neon Fry_93: -2036672833
+      Neon Fry_94: 755737837
+      Neon Fry_95: 471516649
+      Neon Fry_96: 643639333
+      Neon Fry_97: 677898028
+      Neon Fry_98: -356829432
+      Neon Fry_99: 1909970814
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

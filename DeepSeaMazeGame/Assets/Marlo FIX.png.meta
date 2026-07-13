@@ -1,0 +1,1885 @@
+fileFormatVersion: 2
+guid: b3fa7e9d632a51b4fbdd510e92fc8d07
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6747023943402257210
+    second: Marlo FIX_0
+  - first:
+      213: -4223457540755348510
+    second: Marlo FIX_1
+  - first:
+      213: 4761080715114018007
+    second: Marlo FIX_2
+  - first:
+      213: 3983137032781359084
+    second: Marlo FIX_3
+  - first:
+      213: 1344682670059524691
+    second: Marlo FIX_4
+  - first:
+      213: -5364091412537920270
+    second: Marlo FIX_5
+  - first:
+      213: -2874715984120791502
+    second: Marlo FIX_6
+  - first:
+      213: -4449229374615244937
+    second: Marlo FIX_7
+  - first:
+      213: 8569330416888021042
+    second: Marlo FIX_8
+  - first:
+      213: 8395815118978038379
+    second: Marlo FIX_9
+  - first:
+      213: 3472394854380287241
+    second: Marlo FIX_10
+  - first:
+      213: -5061021978765873348
+    second: Marlo FIX_11
+  - first:
+      213: 7573307538624789315
+    second: Marlo FIX_12
+  - first:
+      213: -127866025530393953
+    second: Marlo FIX_13
+  - first:
+      213: -5585592109174934686
+    second: Marlo FIX_14
+  - first:
+      213: 3759897718736632998
+    second: Marlo FIX_15
+  - first:
+      213: 2127750129025445270
+    second: Marlo FIX_16
+  - first:
+      213: -63507799014357949
+    second: Marlo FIX_17
+  - first:
+      213: -5990388349614862639
+    second: Marlo FIX_18
+  - first:
+      213: -3694436297351209847
+    second: Marlo FIX_19
+  - first:
+      213: -4075029911769357881
+    second: Marlo FIX_20
+  - first:
+      213: -5422609648014197840
+    second: Marlo FIX_21
+  - first:
+      213: -6747627222138480737
+    second: Marlo FIX_22
+  - first:
+      213: 8550980809077383472
+    second: Marlo FIX_23
+  - first:
+      213: 8302218025803707380
+    second: Marlo FIX_24
+  - first:
+      213: -3987010051734069399
+    second: Marlo FIX_25
+  - first:
+      213: -5666873997004741970
+    second: Marlo FIX_26
+  - first:
+      213: 4073249097235493493
+    second: Marlo FIX_27
+  - first:
+      213: -1203696910817173918
+    second: Marlo FIX_28
+  - first:
+      213: 3101864365675920613
+    second: Marlo FIX_29
+  - first:
+      213: 3220944227266229879
+    second: Marlo FIX_30
+  - first:
+      213: 2198724011372106646
+    second: Marlo FIX_31
+  - first:
+      213: 2001733883790318914
+    second: Marlo FIX_32
+  - first:
+      213: 2734284842110865263
+    second: Marlo FIX_33
+  - first:
+      213: -4673465747686531934
+    second: Marlo FIX_34
+  - first:
+      213: 2591305063000852488
+    second: Marlo FIX_35
+  - first:
+      213: 1545032698969069258
+    second: Marlo FIX_36
+  - first:
+      213: -5205869202538595598
+    second: Marlo FIX_37
+  - first:
+      213: 7829442693918203206
+    second: Marlo FIX_38
+  - first:
+      213: 4021077449467103963
+    second: Marlo FIX_39
+  - first:
+      213: -1119341749610449318
+    second: Marlo FIX_40
+  - first:
+      213: 5310197810002848048
+    second: Marlo FIX_41
+  - first:
+      213: 3091700079608692353
+    second: Marlo FIX_42
+  - first:
+      213: -3559897491910058729
+    second: Marlo FIX_43
+  - first:
+      213: 5974895362434228641
+    second: Marlo FIX_44
+  - first:
+      213: 2486634764694905465
+    second: Marlo FIX_45
+  - first:
+      213: -4787897334741419140
+    second: Marlo FIX_46
+  - first:
+      213: 2524701261685463191
+    second: Marlo FIX_47
+  - first:
+      213: -5219440360101311845
+    second: Marlo FIX_48
+  - first:
+      213: 1950222219801117923
+    second: Marlo FIX_49
+  - first:
+      213: 1306694871122699090
+    second: Marlo FIX_50
+  - first:
+      213: 2378032702415981472
+    second: Marlo FIX_51
+  - first:
+      213: -8486716259631554930
+    second: Marlo FIX_52
+  - first:
+      213: -637982917250201933
+    second: Marlo FIX_53
+  - first:
+      213: -6583744880797431821
+    second: Marlo FIX_54
+  - first:
+      213: -7189506176636238539
+    second: Marlo FIX_55
+  - first:
+      213: -5050510584378440104
+    second: Marlo FIX_56
+  - first:
+      213: -1933056112930330421
+    second: Marlo FIX_57
+  - first:
+      213: 4442391563007778390
+    second: Marlo FIX_58
+  - first:
+      213: -5075511627558856025
+    second: Marlo FIX_59
+  - first:
+      213: 5889368788535360507
+    second: Marlo FIX_60
+  - first:
+      213: -5043155562138071235
+    second: Marlo FIX_61
+  - first:
+      213: -484301769520427154
+    second: Marlo FIX_62
+  - first:
+      213: 4015602386280874615
+    second: Marlo FIX_63
+  - first:
+      213: 39087730493115256
+    second: Marlo FIX_64
+  - first:
+      213: -6238468971638223172
+    second: Marlo FIX_65
+  - first:
+      213: -7810277011293490204
+    second: Marlo FIX_66
+  - first:
+      213: 3957489079748783050
+    second: Marlo FIX_67
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Marlo FIX_0
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 473
+        width: 65
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c404728871cd52a0800000000000000
+      internalID: -6747023943402257210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marlo FIX_1
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 505
+        width: 57
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e325575eb34365c0800000000000000
+      internalID: -4223457540755348510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marlo FIX_2
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 498
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d475536fa1c21240800000000000000
+      internalID: 4761080715114018007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marlo FIX_3
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 498
+        width: 57
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce7e2aa1702f64730800000000000000
+      internalID: 3983137032781359084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marlo FIX_4
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 508
+        width: 54
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 352958493c549a210800000000000000
+      internalID: 1344682670059524691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marlo FIX_5
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 498
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f434fcc74bee85b0800000000000000
+      internalID: -5364091412537920270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marlo FIX_6
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 498
+        width: 54
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23eb7581b05fa18d0800000000000000
+      internalID: -2874715984120791502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marlo FIX_7
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 501
+        width: 54
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77f23d1f4792142c0800000000000000
+      internalID: -4449229374615244937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marlo FIX_8
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 500
+        width: 54
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2308f85ac906ce670800000000000000
+      internalID: 8569330416888021042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marlo FIX_9
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 506
+        width: 55
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6a3a862e5de38470800000000000000
+      internalID: 8395815118978038379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marlo FIX_10
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 499
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9053b37f8bc603030800000000000000
+      internalID: 3472394854380287241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marlo FIX_11
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 498
+        width: 57
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3f27332353a3c9b0800000000000000
+      internalID: -5061021978765873348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marlo FIX_12
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 499
+        width: 56
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34bb48ec41bc91960800000000000000
+      internalID: 7573307538624789315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marlo FIX_13
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 428
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9a7b69f68ab93ef0800000000000000
+      internalID: -127866025530393953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marlo FIX_14
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 418
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2633768029dfb72b0800000000000000
+      internalID: -5585592109174934686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marlo FIX_15
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 416
+        width: 68
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ac391ded07dd2430800000000000000
+      internalID: 3759897718736632998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marlo FIX_16
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 415
+        width: 74
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69d6a531879478d10800000000000000
+      internalID: 2127750129025445270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marlo FIX_17
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 415
+        width: 75
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34448474eff5e1ff0800000000000000
+      internalID: -63507799014357949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marlo FIX_18
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 418
+        width: 75
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1de4192d88ddddca0800000000000000
+      internalID: -5990388349614862639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marlo FIX_19
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 416
+        width: 76
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98c5213f2c9babcc0800000000000000
+      internalID: -3694436297351209847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marlo FIX_20
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 416
+        width: 72
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c165ebb2e59277c0800000000000000
+      internalID: -4075029911769357881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marlo FIX_21
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 416
+        width: 73
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bbf18e51450fb4b0800000000000000
+      internalID: -5422609648014197840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marlo FIX_22
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 415
+        width: 74
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f971eabbacc9b52a0800000000000000
+      internalID: -6747627222138480737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marlo FIX_23
+      rect:
+        serializedVersion: 2
+        x: 709
+        y: 415
+        width: 74
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0316d36adbf2ba670800000000000000
+      internalID: 8550980809077383472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marlo FIX_24
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 416
+        width: 75
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f3ffd3be47673370800000000000000
+      internalID: 8302218025803707380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marlo FIX_25
+      rect:
+        serializedVersion: 2
+        x: 884
+        y: 416
+        width: 75
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96f9a766b7b4ba8c0800000000000000
+      internalID: -3987010051734069399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marlo FIX_26
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 306
+        width: 43
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea262a5cf183b51b0800000000000000
+      internalID: -5666873997004741970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marlo FIX_27
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 305
+        width: 53
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 572f6621976178830800000000000000
+      internalID: 4073249097235493493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marlo FIX_28
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 305
+        width: 53
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26ed18d790c9b4fe0800000000000000
+      internalID: -1203696910817173918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marlo FIX_29
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 305
+        width: 54
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ec3e89c4390c0b20800000000000000
+      internalID: 3101864365675920613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marlo FIX_30
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 305
+        width: 57
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7767c8b95b713bc20800000000000000
+      internalID: 3220944227266229879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marlo FIX_31
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 305
+        width: 61
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 693d4f8c6df638e10800000000000000
+      internalID: 2198724011372106646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marlo FIX_32
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 309
+        width: 57
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24d5f269c5697cb10800000000000000
+      internalID: 2001733883790318914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marlo FIX_33
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 309
+        width: 52
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6fc0c8b39122f520800000000000000
+      internalID: 2734284842110865263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marlo FIX_34
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 310
+        width: 50
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ac503fd9a3842fb0800000000000000
+      internalID: -4673465747686531934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marlo FIX_35
+      rect:
+        serializedVersion: 2
+        x: 811
+        y: 312
+        width: 50
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80846d8b93a26f320800000000000000
+      internalID: 2591305063000852488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marlo FIX_36
+      rect:
+        serializedVersion: 2
+        x: 899
+        y: 311
+        width: 42
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac61a64cd0f017510800000000000000
+      internalID: 1545032698969069258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marlo FIX_37
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 228
+        width: 77
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fa7a8bca8901c7b0800000000000000
+      internalID: -5205869202538595598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marlo FIX_38
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 227
+        width: 73
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64d9540e5a4c7ac60800000000000000
+      internalID: 7829442693918203206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marlo FIX_39
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 226
+        width: 98
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bda02ddb2acbdc730800000000000000
+      internalID: 4021077449467103963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marlo FIX_40
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 222
+        width: 99
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a567438fb9c4770f0800000000000000
+      internalID: -1119341749610449318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marlo FIX_41
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 220
+        width: 98
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 039e64806cc91b940800000000000000
+      internalID: 5310197810002848048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marlo FIX_42
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 220
+        width: 96
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18e7f1587dce7ea20800000000000000
+      internalID: 3091700079608692353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marlo FIX_43
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 222
+        width: 100
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71d95ed9714b89ec0800000000000000
+      internalID: -3559897491910058729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marlo FIX_44
+      rect:
+        serializedVersion: 2
+        x: 807
+        y: 226
+        width: 99
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a165000da71be250800000000000000
+      internalID: 5974895362434228641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marlo FIX_45
+      rect:
+        serializedVersion: 2
+        x: 944
+        y: 226
+        width: 98
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 972e6cbc42d428220800000000000000
+      internalID: 2486634764694905465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marlo FIX_46
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 113
+        width: 40
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7bb2bdcdb8fd8db0800000000000000
+      internalID: -4787897334741419140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marlo FIX_47
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 113
+        width: 44
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7981ebacb6a890320800000000000000
+      internalID: 2524701261685463191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marlo FIX_48
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 114
+        width: 50
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9a03d175a2d097b0800000000000000
+      internalID: -5219440360101311845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marlo FIX_49
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 115
+        width: 50
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e4c154b6c4901b10800000000000000
+      internalID: 1950222219801117923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marlo FIX_50
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 116
+        width: 43
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 253e717ef00522210800000000000000
+      internalID: 1306694871122699090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marlo FIX_51
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 119
+        width: 45
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ab44cbb428700120800000000000000
+      internalID: 2378032702415981472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marlo FIX_52
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 118
+        width: 45
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8e1123c680293a80800000000000000
+      internalID: -8486716259631554930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marlo FIX_53
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 116
+        width: 48
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b6c88cbaed6527f0800000000000000
+      internalID: -637982917250201933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marlo FIX_54
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 119
+        width: 48
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f7c540c9e6d1a4a0800000000000000
+      internalID: -6583744880797431821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marlo FIX_55
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 112
+        width: 39
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 535ce17593eb93c90800000000000000
+      internalID: -7189506176636238539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marlo FIX_56
+      rect:
+        serializedVersion: 2
+        x: 908
+        y: 113
+        width: 35
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 856c5cbd16bf8e9b0800000000000000
+      internalID: -5050510584378440104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marlo FIX_57
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 23
+        width: 73
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc8e3e105b76c25e0800000000000000
+      internalID: -1933056112930330421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marlo FIX_58
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 23
+        width: 61
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65e554af69b86ad30800000000000000
+      internalID: 4442391563007778390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marlo FIX_59
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 25
+        width: 55
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7aa5df1e0192099b0800000000000000
+      internalID: -5075511627558856025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marlo FIX_60
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 26
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfb3cefb5bd3bb150800000000000000
+      internalID: 5889368788535360507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marlo FIX_61
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 28
+        width: 73
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3f89bb6cbc130ab0800000000000000
+      internalID: -5043155562138071235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marlo FIX_62
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 31
+        width: 64
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6f44a74b1a6749f0800000000000000
+      internalID: -484301769520427154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marlo FIX_63
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 20
+        width: 54
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7728b7148194ab730800000000000000
+      internalID: 4015602386280874615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marlo FIX_64
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 19
+        width: 39
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87b4e13751eda8000800000000000000
+      internalID: 39087730493115256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marlo FIX_65
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 10
+        width: 54
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbe053be5818c69a0800000000000000
+      internalID: -6238468971638223172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marlo FIX_66
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 12
+        width: 57
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e3b37850725c9390800000000000000
+      internalID: -7810277011293490204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marlo FIX_67
+      rect:
+        serializedVersion: 2
+        x: 811
+        y: 15
+        width: 46
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acbe9e0b953dbe630800000000000000
+      internalID: 3957489079748783050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Marlo FIX_0: -6747023943402257210
+      Marlo FIX_1: -4223457540755348510
+      Marlo FIX_10: 3472394854380287241
+      Marlo FIX_11: -5061021978765873348
+      Marlo FIX_12: 7573307538624789315
+      Marlo FIX_13: -127866025530393953
+      Marlo FIX_14: -5585592109174934686
+      Marlo FIX_15: 3759897718736632998
+      Marlo FIX_16: 2127750129025445270
+      Marlo FIX_17: -63507799014357949
+      Marlo FIX_18: -5990388349614862639
+      Marlo FIX_19: -3694436297351209847
+      Marlo FIX_2: 4761080715114018007
+      Marlo FIX_20: -4075029911769357881
+      Marlo FIX_21: -5422609648014197840
+      Marlo FIX_22: -6747627222138480737
+      Marlo FIX_23: 8550980809077383472
+      Marlo FIX_24: 8302218025803707380
+      Marlo FIX_25: -3987010051734069399
+      Marlo FIX_26: -5666873997004741970
+      Marlo FIX_27: 4073249097235493493
+      Marlo FIX_28: -1203696910817173918
+      Marlo FIX_29: 3101864365675920613
+      Marlo FIX_3: 3983137032781359084
+      Marlo FIX_30: 3220944227266229879
+      Marlo FIX_31: 2198724011372106646
+      Marlo FIX_32: 2001733883790318914
+      Marlo FIX_33: 2734284842110865263
+      Marlo FIX_34: -4673465747686531934
+      Marlo FIX_35: 2591305063000852488
+      Marlo FIX_36: 1545032698969069258
+      Marlo FIX_37: -5205869202538595598
+      Marlo FIX_38: 7829442693918203206
+      Marlo FIX_39: 4021077449467103963
+      Marlo FIX_4: 1344682670059524691
+      Marlo FIX_40: -1119341749610449318
+      Marlo FIX_41: 5310197810002848048
+      Marlo FIX_42: 3091700079608692353
+      Marlo FIX_43: -3559897491910058729
+      Marlo FIX_44: 5974895362434228641
+      Marlo FIX_45: 2486634764694905465
+      Marlo FIX_46: -4787897334741419140
+      Marlo FIX_47: 2524701261685463191
+      Marlo FIX_48: -5219440360101311845
+      Marlo FIX_49: 1950222219801117923
+      Marlo FIX_5: -5364091412537920270
+      Marlo FIX_50: 1306694871122699090
+      Marlo FIX_51: 2378032702415981472
+      Marlo FIX_52: -8486716259631554930
+      Marlo FIX_53: -637982917250201933
+      Marlo FIX_54: -6583744880797431821
+      Marlo FIX_55: -7189506176636238539
+      Marlo FIX_56: -5050510584378440104
+      Marlo FIX_57: -1933056112930330421
+      Marlo FIX_58: 4442391563007778390
+      Marlo FIX_59: -5075511627558856025
+      Marlo FIX_6: -2874715984120791502
+      Marlo FIX_60: 5889368788535360507
+      Marlo FIX_61: -5043155562138071235
+      Marlo FIX_62: -484301769520427154
+      Marlo FIX_63: 4015602386280874615
+      Marlo FIX_64: 39087730493115256
+      Marlo FIX_65: -6238468971638223172
+      Marlo FIX_66: -7810277011293490204
+      Marlo FIX_67: 3957489079748783050
+      Marlo FIX_7: -4449229374615244937
+      Marlo FIX_8: 8569330416888021042
+      Marlo FIX_9: 8395815118978038379
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
